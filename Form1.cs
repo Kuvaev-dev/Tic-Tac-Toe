@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Drawing;
-using System.Net;
+using System.Net;           // используется для импорта изображений
 using System.Windows.Forms;
 
 namespace XO
